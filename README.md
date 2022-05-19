@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JB-Ogot
 - 👀 I’m interested in Full Stack development and pentesting
-- 🌱 I’m currently learning burp suite and react js
+- 🌱 I’m currently learning burp suite and nest js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
